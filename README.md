@@ -7,6 +7,7 @@ Material design for Bootstrap 4.X
 - checkbox, radio
 - dropdown
 - modal
+- tabs
 
 ## External
 - fullcalandar
